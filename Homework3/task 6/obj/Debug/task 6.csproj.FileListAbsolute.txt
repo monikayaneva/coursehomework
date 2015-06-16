@@ -1,0 +1,9 @@
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\task 6.csprojResolveAssemblyReference.cache
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\Moni\Desktop\Homework3\task 6\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\Moni\Desktop\Homework3\task 6\obj\Debug\ConsoleApplication7.exe
+C:\Users\Moni\Desktop\Homework3\task 6\obj\Debug\ConsoleApplication7.pdb

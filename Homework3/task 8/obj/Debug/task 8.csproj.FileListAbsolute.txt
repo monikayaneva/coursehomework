@@ -1,0 +1,6 @@
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\task 8.csprojResolveAssemblyReference.cache
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
