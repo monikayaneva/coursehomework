@@ -1,0 +1,9 @@
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe.config
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.csprojResolveAssemblyReference.cache
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.exe
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.pdb
+C:\Users\Moni\Desktop\Homework4\task 9\bin\Debug\ConsoleApplication12.exe.config
+C:\Users\Moni\Desktop\Homework4\task 9\obj\Debug\ConsoleApplication12.exe
+C:\Users\Moni\Desktop\Homework4\task 9\obj\Debug\ConsoleApplication12.pdb

@@ -1,0 +1,3 @@
+C:\Users\Moni\Desktop\Homework4\task 11\bin\Debug\ConsoleApplication16.exe.config
+C:\Users\Moni\Desktop\Homework4\task 11\obj\Debug\ConsoleApplication16.exe
+C:\Users\Moni\Desktop\Homework4\task 11\obj\Debug\ConsoleApplication16.pdb
