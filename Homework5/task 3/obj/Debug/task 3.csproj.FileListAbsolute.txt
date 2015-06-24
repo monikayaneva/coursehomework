@@ -1,0 +1,12 @@
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication38\ConsoleApplication38\bin\Debug\ConsoleApplication38.exe.config
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication38\ConsoleApplication38\bin\Debug\ConsoleApplication38.exe
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication38\ConsoleApplication38\bin\Debug\ConsoleApplication38.pdb
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication38\ConsoleApplication38\obj\Debug\task 3.csprojResolveAssemblyReference.cache
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication38\ConsoleApplication38\obj\Debug\ConsoleApplication38.exe
+c:\users\moni\documents\visual studio 2013\Projects\ConsoleApplication38\ConsoleApplication38\obj\Debug\ConsoleApplication38.pdb
+C:\Users\Moni\Desktop\Homework5\task 3\bin\Debug\ConsoleApplication38.exe.config
+C:\Users\Moni\Desktop\Homework5\task 3\obj\Debug\ConsoleApplication38.exe
+C:\Users\Moni\Desktop\Homework5\task 3\obj\Debug\ConsoleApplication38.pdb
+C:\Users\Moni\Desktop\Homework5\task 3\bin\Debug\ConsoleApplication38.exe
+C:\Users\Moni\Desktop\Homework5\task 3\bin\Debug\ConsoleApplication38.pdb
+C:\Users\Moni\Desktop\Homework5\task 3\obj\Debug\task 3.csprojResolveAssemblyReference.cache

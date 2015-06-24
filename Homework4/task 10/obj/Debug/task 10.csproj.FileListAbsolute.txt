@@ -1,3 +1,6 @@
 C:\Users\Moni\Desktop\Homework4\task 10\bin\Debug\ConsoleApplication15.exe.config
 C:\Users\Moni\Desktop\Homework4\task 10\obj\Debug\ConsoleApplication15.exe
 C:\Users\Moni\Desktop\Homework4\task 10\obj\Debug\ConsoleApplication15.pdb
+C:\Users\Moni\Desktop\kurs\coursehomework\Homework4\task 10\bin\Debug\ConsoleApplication15.exe.config
+C:\Users\Moni\Desktop\kurs\coursehomework\Homework4\task 10\obj\Debug\ConsoleApplication15.exe
+C:\Users\Moni\Desktop\kurs\coursehomework\Homework4\task 10\obj\Debug\ConsoleApplication15.pdb
