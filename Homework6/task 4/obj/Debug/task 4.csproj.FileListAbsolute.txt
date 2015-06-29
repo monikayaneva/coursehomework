@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2013\Projects\ConsoleApplication42\task 4\bin\Debug\task 4.exe.config
+C:\Users\Moni\Documents\Visual Studio 2013\Projects\ConsoleApplication42\task 4\bin\Debug\task 4.exe
+C:\Users\Moni\Documents\Visual Studio 2013\Projects\ConsoleApplication42\task 4\bin\Debug\task 4.pdb
+C:\Users\Moni\Documents\Visual Studio 2013\Projects\ConsoleApplication42\task 4\obj\Debug\task 4.exe
+C:\Users\Moni\Documents\Visual Studio 2013\Projects\ConsoleApplication42\task 4\obj\Debug\task 4.pdb
