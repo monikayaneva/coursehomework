@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2013\Projects\Homework7\Homework7\bin\Debug\Homework7.exe.config
+c:\users\moni\documents\visual studio 2013\Projects\Homework7\Homework7\bin\Debug\Homework7.exe
+c:\users\moni\documents\visual studio 2013\Projects\Homework7\Homework7\bin\Debug\Homework7.pdb
+c:\users\moni\documents\visual studio 2013\Projects\Homework7\Homework7\obj\Debug\Homework7.exe
+c:\users\moni\documents\visual studio 2013\Projects\Homework7\Homework7\obj\Debug\Homework7.pdb

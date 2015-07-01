@@ -1,0 +1,6 @@
+c:\users\moni\documents\visual studio 2013\Projects\Homework7\task 4\bin\Debug\task 4.exe.config
+c:\users\moni\documents\visual studio 2013\Projects\Homework7\task 4\obj\Debug\task 4.csprojResolveAssemblyReference.cache
+c:\users\moni\documents\visual studio 2013\Projects\Homework7\task 4\bin\Debug\task 4.exe
+c:\users\moni\documents\visual studio 2013\Projects\Homework7\task 4\bin\Debug\task 4.pdb
+c:\users\moni\documents\visual studio 2013\Projects\Homework7\task 4\obj\Debug\task 4.exe
+c:\users\moni\documents\visual studio 2013\Projects\Homework7\task 4\obj\Debug\task 4.pdb
